@@ -31,7 +31,7 @@ Also Working as Co-Founder/ CTO at [HappyKids.ai],a non-profit company focussing
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [**London Affordable Place to Live**]([https://github.com/lrsmello/AFFORDABLE_HOME_LONDON]) | Recommendation system for London rentals based on lifestyle, values and quality of life. | Gaussian AHP, Python, Flask, Docker |
+| [**London Affordable Place to Live**](https://github.com/lrsmello/AFFORDABLE_HOME_LONDON) | Recommendation system for London rentals based on lifestyle, values and quality of life. | Gaussian AHP, Python, Flask, Docker |
 | [**GenAI Assistant**](https://github.com/seuusuario/genai-assistant) | Personal assistant powered by LLMs with contextual memory. | GPT-4, LangChain, Django, Docker |
 | [**Gasoline Demand Forecast**](https://github.com/seuusuario/gasoline-predict) | Forecasting gasoline demand using XGBoost and Prophet. | XGBoost, Prophet, Sarima, Plotly, Streamlit |
 | [**AI-native BI Tool**](https://github.com/seuusuario/ai-bi-dashboard) | BI dashboard with embedded GPT for automated insights. | GPT, Streamlit, SQL |
