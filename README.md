@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lucas Mello</h1>
+<h1 align="center">👋 Hi, I'm Lucas Di Salvo Mello</h1>
 
 <p align="center">
   AI Engineer | Data Scientist | Machine Learning Specialist
